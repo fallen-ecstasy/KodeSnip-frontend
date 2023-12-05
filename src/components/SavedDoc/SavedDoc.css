@@ -1,0 +1,16 @@
+.saved-doc-loading-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Media query for responsiveness */
+  @media screen and (max-width: 768px) {
+    .saved-doc-loading-page {
+      font-size: 18px;
+    }
+  }
+  
