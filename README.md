@@ -1,6 +1,6 @@
 ## KodeSnip - Frontend
 
-![]()
+![](https://github.com/fallen-ecstasy/KodeSnip-frontend/blob/main/cover.png)
 
 ### BACKEND REPO : [KodeSnip-server](https://github.com/fallen-ecstasy/KodeSnip-server)
 
