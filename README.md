@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+## KodeSnip - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![]()
 
-## Available Scripts
+### BACKEND REPO : [KodeSnip-server](https://github.com/fallen-ecstasy/KodeSnip-server)
 
-In the project directory, you can run:
+KodeSnip is a user-friendly platform that empowers developers to effortlessly create and share code snippets. Our intuitive frontend, built with React, simplifies the process of capturing and presenting your valuable coding insights.
 
-### `npm start`
+### Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Seamless snippet creation:** Quickly craft your code using our user-friendly interface, no complex setup required.
+* **Sharable links:** Generate unique links for each snippet, allowing easy sharing with colleagues or the wider community.
+* **Syntax highlighting:** We automatically highlight your code based on the chosen language, enhancing readability and clarity.
+* **Customization options:** Tailor your snippets with custom titles, descriptions, and tags for better organization and discoverability.
+* **Responsive design:** Access and manage your snippets from any device, ensuring seamless workflow on the go.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Getting Started
 
-### `npm test`
+#### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Node.js and npm installed
+* Basic understanding of React
 
-### `npm run build`
+#### Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/fallen-ecstasy/KodeSnip-frontend kodesnip-frontend
+cd kodesnip-frontend
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install dependencies:
+```bash
+npm install
+```
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start the development server:
+```bash
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Open http://localhost:3000 in your browser.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Technologies
 
-## Learn More
+This project leverages the following technologies:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* **React:** for building the interactive and performant frontend interface.
+* **React Router:** for efficient navigation between different snippet views.
+* **Material UI:** for a consistent and modern design experience.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Contributing
 
-### Code Splitting
+We welcome contributions from the community! If you're interested in helping us improve KodeSnip, please refer to the CONTRIBUTING.md guidelines for details on our contribution process and style guide.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### License
 
-### Analyzing the Bundle Size
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Stay Connected
 
-### Making a Progressive Web App
+* Follow me on GitHub: [Harsh Misra](https://github.com/fallen-ecstasy)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+We're excited to see what you create with KodeSnip!
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to customize this further by adding more details or sections as needed!
