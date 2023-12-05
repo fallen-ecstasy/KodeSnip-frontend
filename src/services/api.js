@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = process.env.URL ?? 'http://localhost:4444';
+const URL = process.env.SERVERURL ?? 'http://localhost:4444';
 
 // api to register new user
 export const registerUser = async (data) => {
